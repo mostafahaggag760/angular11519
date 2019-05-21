@@ -11,5 +11,6 @@ export class DepartmentListComponent implements OnInit {
 
   ngOnInit() {
   }
+ 
 
 }
